@@ -1,7 +1,7 @@
 ---
 aliases: 
 player: Spencer
-tags: [Player Character], 
+tags: PC
 created: 2022-06-12
 ---
 # Eboza

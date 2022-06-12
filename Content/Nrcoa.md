@@ -1,7 +1,7 @@
 ---
 aliases: 
 player: Nathaniel
-tags: [Player Character]
+tags: PC
 created: 2022-06-12
 ---
 # Nrcoa
