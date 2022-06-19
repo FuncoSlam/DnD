@@ -2,7 +2,7 @@
 aliases: 
 tags: PC
 player: Ewan
-status: alive
+status: Alive
 created: 2022-06-19
 ---
 # Wabooluk

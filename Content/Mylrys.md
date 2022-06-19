@@ -1,7 +1,7 @@
 ---
 aliases:
 player: Seth
-status: alive
+status: Alive
 tags: PC
 created: 2022-06-12
 ---
