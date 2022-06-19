@@ -4,9 +4,10 @@ tags:
 created: 2022-06-12
 ---
 # Party
-[[Eboza]]
+[[Uradech]]
 [[Nrcoa]]
 [[Dreydon]]
 [[Oakly]]
 [[Stonebranch]]
 [[Mylrys]]
+[[Wabooluk]]
