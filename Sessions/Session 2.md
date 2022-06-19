@@ -12,3 +12,11 @@ The tracks lead the party to a shack in the woods. The inside of the shack was t
 
 Meet with [[Corsar]] when heading back to the village. Very sussy. Warned us not to go back to town.
 
+We broke into the [[Korshire]] Inn, got attacked by [[Keller]] who turned out to be a cultist.
+
+[[Keller]] kept a journal describing an encounter with a cat-creature several months before. The cat granted a wish to a woman named [[Masel Gryn]]. The journal describes directions to where the creature is located.
+
+We were ambushed by more cat-cultists.
+
+Followed the journals instructions into a cave at the foot of a mountain chappel. 
+
