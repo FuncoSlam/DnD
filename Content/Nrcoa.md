@@ -2,7 +2,7 @@
 aliases: 
 player: Nathaniel
 tags: PC
-status: alive
+status: Alive
 created: 2022-06-12
 ---
 # Nrcoa

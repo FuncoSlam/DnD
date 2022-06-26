@@ -2,7 +2,7 @@
 aliases: 
 tags: PC
 player:
-status: alive
+status: Alive
 created: {{date}}
 ---
 # {{title}}
