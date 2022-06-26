@@ -6,7 +6,7 @@ created: 2022-06-12
 # Party
 ```dataview
 list
-from #PC
+from #PC and -"z_Templates"
 where status = "Alive" 
 sort created asc
 ```
