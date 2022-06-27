@@ -5,8 +5,8 @@ created: 2022-06-12
 ---
 # Party
 ```dataview
-list
-from #PC and -"z_Templates"
-where status = "Alive" 
-sort created asc
+TABLE class as "Class", race as "Race", created as "Created" 
+FROM -"z_Templates"
+WHERE status = "Alive" 
+SORT created asc
 ```
