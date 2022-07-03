@@ -10,4 +10,4 @@ We find the Cat God named [[Ermagu]]. It has enslaved some villagers, including 
 
 In the fighting [[Mylrys]] and [[Oakly]] died.
 
-We visited [[Alon City]] and realizd the extoritionate price of arrows.
+We visited [[Alon City]] and realizd the extoritionate price of arrows. We sell some miscilaneous goods at the general store. [[Piradory]] was arrested and [[Arjhan]] joined the party.
