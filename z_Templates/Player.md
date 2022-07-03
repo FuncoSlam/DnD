@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: Player
-player: 
+player: {{title}}
 created: {{date}}
 ---
 # {{title}}
@@ -9,7 +9,7 @@ created: {{date}}
 ## Characters:
 ```dataview
 TABLE class as "Class", race as "Race", created as "Created" 
-FROM -"z_Templates"
+FROM -"z_Templates" AND #PC 
 WHERE player = "{{title}}" 
 SORT created asc
 ```
