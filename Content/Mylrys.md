@@ -1,7 +1,7 @@
 ---
 aliases:
 player: Seth
-status: Alive
+status: Deceased
 class: Monk
 race: Meadower
 tags: PC
