@@ -1,6 +1,6 @@
 ---
 aliases: 
-player: Ewan
+player: 
 race: Treant
 class: Cleric
 tags: PC
