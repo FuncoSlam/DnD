@@ -3,7 +3,7 @@ aliases:
 tags: PC
 player: Spencer
 
-class: Fathomless Warlock
+class: Fathomless
 status: Alive
 created: 2022-06-19
 ---
