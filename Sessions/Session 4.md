@@ -9,3 +9,5 @@ In the second cat cave route the [[Party]] find a cathedral structure built into
 We find the Cat God named [[Ermagu]]. It has enslaved some villagers, including [[Corsar]]'s daughter. The party attacked.
 
 In the fighting [[Mylrys]] and [[Oakly]] died.
+
+We visited [[Alon City]] and realizd the extoritionate price of arrows.

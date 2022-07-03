@@ -2,6 +2,8 @@
 aliases: 
 player: Spencer
 tags: PC
+race: Vespulid
+class: Wizard
 status: Deceased
 created: 2022-06-12
 ---
