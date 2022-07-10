@@ -95,3 +95,5 @@ The lesser party FINALLY regroups with [[Bjorn]] and [[Piradory]]. The party has
 ---
 
 The party passes through [[Ballenberg]] on the way to [[Vethor]]. They investigate the rock field and determine them to be large bones. Appears to be some sort of ancient ritual circle.
+
+They arrive in [[Vethor]] and head to the local library.
