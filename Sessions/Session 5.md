@@ -66,4 +66,4 @@ Once they reach [[Billaton Valley]] they go to the tavern to suss out where this
 
 ---
 
-[[Piradory]] manages to break free of the two guards holding her. She manages to KILL the carriage driver,  
+[[Piradory]] manages to break free of the two guards holding her. She KILLs the carriage driver,  breaks free of her shackles, gets knocked off a cliff, begins to glide West and gets taken out to sea by the wind.
