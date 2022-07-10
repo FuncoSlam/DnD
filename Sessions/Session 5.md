@@ -67,3 +67,11 @@ Once they reach [[Billaton Valley]] they go to the tavern to suss out where this
 ---
 
 [[Piradory]] manages to break free of the two guards holding her. She KILLs the carriage driver,  breaks free of her shackles, gets knocked off a cliff, begins to glide West and gets taken out to sea by the wind.
+
+---
+
+[[Bjorn]] arrives at the crumbling ruins of a fort on the road to [[Billaton Valley]]. 
+
+---
+
+The lesser party hears screaming from the woods, run to see what is happening, see civilians running in the opposite direction, and come to a burning home in a clearing in the woods. They stumble upon a greater demon tormenting people. The lesser party decides to strategically retreat and deal with something more manageable
