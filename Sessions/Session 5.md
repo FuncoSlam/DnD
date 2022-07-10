@@ -85,3 +85,9 @@ The lesser party hears screaming from the woods, run to see what is happening, s
 [[Bjorn]] asks some local townsfolk for the whereabouts of the lesser party. He is informed that [[Billaton Valley]] is to his South. 
 
 He eventually runs into [[Piradory]]. They both start moving towards [[Billaton Valley]].
+
+---
+
+The lesser party heads through [[Korshire]] and decide to head to [[Vethor]]. On the way their they run into a small guard outpost on a toll road.
+
+The lesser party FINALLY regroups with [[Bjorn]] and [[Piradory]]. The party has REFORMED.
