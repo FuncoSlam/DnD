@@ -96,4 +96,26 @@ The lesser party FINALLY regroups with [[Bjorn]] and [[Piradory]]. The party has
 
 The party passes through [[Ballenberg]] on the way to [[Vethor]]. They investigate the rock field and determine them to be large bones. Appears to be some sort of ancient ritual circle.
 
-They arrive in [[Vethor]] and head to the local library. [[Arjhan]] finds the giant book he was looking for. It contains information on the [[Meteor Rune]]. 
+They arrive in [[Vethor]] and head to the local library. 
+
+[[Arjhan]] finds the giant book he was looking for. It contains information on the [[Meteor Rune]].
+
+[[Nrcoa]] searches for a text on demonology but finds nothing with detailed information.
+
+[[Uradech]] searches for information on the local fishing industry.
+
+[[Gary the Rock]] doesn't want to be put back into a road.
+
+[[Ezechiel]] investigates [[Miran Shipore]]. The local nobility are all supposedly distantly descended from him.
+
+They spend the evening in a local inn.
+
+---
+
+The party investigate the nearby river imps. They follow the river inland.
+
+On the way they find a small ruins.
+
+They pass through [[Crostaville]].
+
+They come across a bridge near a multilevel waterfall with caves built into them. They enter the nearest cave in which they find a hydra.
