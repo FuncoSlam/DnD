@@ -82,4 +82,6 @@ The lesser party hears screaming from the woods, run to see what is happening, s
 
 ---
 
-[[Bjorn]] asks some local townsfolk for the whereabouts of the lesser party. He is informed that [[Billaton Valley]] is to his South.
+[[Bjorn]] asks some local townsfolk for the whereabouts of the lesser party. He is informed that [[Billaton Valley]] is to his South. 
+
+He eventually runs into [[Piradory]]. They both start moving towards [[Billaton Valley]].
