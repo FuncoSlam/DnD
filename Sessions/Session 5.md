@@ -14,7 +14,7 @@ The fishery is relatively innactive when he gets their, so he can't determine if
 
 ---
 
-[[Nrcoa]] searches for rumors and discovers that a criminal has escaped the [[Walls of Heydyne]], a princess that TODO, and a local demon has emerged in [[Billaton Valley]].
+[[Nrcoa]] searches for rumors and discovers that a criminal has escaped the [[Walls of Heydyne]], a princess that has a dragon knight in [Allon], and a local demon has emerged in [[Billaton Valley]].
 
 ---
 
@@ -56,4 +56,14 @@ The lesser party heads of towards [[Billaton Valley]].
 
 ---
 
-The next day [[Piradory]]'s court date arrives. [[Sir Syagain]] finds it plausible that [[Piradory]] was influenced by [[Bjorn]]'s magic, but [[Sir Syagain]] is a racist and [[Piradory]] is a werewolf so he gets sentenced to the [[Walls of Heydyne]]. On the road their, [[Piradory]] attempts to break out of the caged cart she's being stored in.
+The next day [[Piradory]]'s court date arrives. [[Sir Syagain]] finds it plausible that [[Piradory]] was influenced by [[Bjorn]]'s magic, but [[Sir Syagain]] is a racist and [[Piradory]] is a werewolf so he gets sentenced to the [[Walls of Heydyne]]. On the road there, [[Piradory]] attempts to break out of the caged cart she's being stored in. 
+
+---
+
+The lesser party pass by some soldiers. Among them is [[The Dragon Knight]], who turns out to be super ugly.
+
+Once they reach [[Billaton Valley]] they go to the tavern to suss out where this demon is. The barkeep informs them that the demon appeared a couple months ago and mostly just trounces around the valley. He informs them of a witch who lives in a tree who might have some additional information, as well as someone from [[Aruktown]] in the area.
+
+---
+
+[[Piradory]] manages to break free of the two guards holding her. 
