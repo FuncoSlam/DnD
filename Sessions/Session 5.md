@@ -54,3 +54,6 @@ The lesser party heads of towards [[Billaton Valley]].
 
 [[Bjorn]]'s court date arrives. The judge, [[Sir Syagain]], is ruthless. [[Bjorn]] describes how he was imprisoned in a monastery, raided that monastery, broke him out and went on a rampage. He then breaks his stone of wanting and casts dominate person on [[Sir Syagain]].
 
+---
+
+The next day [[Piradory]]'s court date arrives. [[Sir Syagain]] finds it plausible that [[Piradory]] was influenced by [[Bjorn]]'s magic, but [[Sir Syagain]] is a racist and [[Piradory]] is a werewolf so he gets sentenced to the [[Walls of Heydyne]]. On the road their, [[Piradory]] attempts to break out of the caged cart she's being stored in.
