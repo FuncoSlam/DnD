@@ -118,4 +118,4 @@ On the way they find a small ruins.
 
 They pass through [[Crostaville]].
 
-They come across a bridge near a multilevel waterfall with caves built into them. They enter the nearest cave in which they find a hydra. Some attempt to sneak past, but they're spotted and a fight breaks out.
+They come across a bridge near a multilevel waterfall with caves built into them. They enter the nearest cave in which they find a hydra. Some attempt to sneak past, but they're spotted and a fight breaks out. It died.
