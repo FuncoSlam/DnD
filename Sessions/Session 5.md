@@ -91,3 +91,7 @@ He eventually runs into [[Piradory]]. They both start moving towards [[Billaton 
 The lesser party heads through [[Korshire]] and decide to head to [[Vethor]]. On the way their they run into a small guard outpost on a toll road.
 
 The lesser party FINALLY regroups with [[Bjorn]] and [[Piradory]]. The party has REFORMED.
+
+---
+
+The party reaches [[Ballenberg]].
