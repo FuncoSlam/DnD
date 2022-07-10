@@ -74,4 +74,12 @@ Once they reach [[Billaton Valley]] they go to the tavern to suss out where this
 
 ---
 
-The lesser party hears screaming from the woods, run to see what is happening, see civilians running in the opposite direction, and come to a burning home in a clearing in the woods. They stumble upon a greater demon tormenting people. The lesser party decides to strategically retreat and deal with something more manageable
+The lesser party hears screaming from the woods, run to see what is happening, see civilians running in the opposite direction, and come to a burning home in a clearing in the woods. They stumble upon a greater demon tormenting people. The lesser party decides to strategically retreat and deal with something more manageable.
+
+---
+
+[[Piradory]] washes up on the coast, cold and wet. She transforms into a werewolf, wakes up in a field near a river. 
+
+---
+
+[[Bjorn]] asks some local townsfolk for the whereabouts of the lesser party. He is informed that [[Billaton Valley]] is to his South.
