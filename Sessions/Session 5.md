@@ -14,7 +14,7 @@ The fishery is relatively innactive when he gets their, so he can't determine if
 
 ---
 
-[[Nrcoa]] searches for rumors and discovers that a criminal has escaped the [[Walls of Heydyne]], a princess that TODO, and a local demon.
+[[Nrcoa]] searches for rumors and discovers that a criminal has escaped the [[Walls of Heydyne]], a princess that TODO, and a local demon has emerged in [[Billaton Valley]].
 
 ---
 
@@ -45,3 +45,12 @@ The local guards arrest [[Bjorn]].
 The party minus [[Bjorn]] finally assembles.
 
 The local guards arrest [[Piradory]].
+
+[[Uradech]] is interogated but ultimately released and meets up with the party sans [[Bjorn]] and [[Piradory]].
+
+The lesser party heads of towards [[Billaton Valley]].
+
+---
+
+[[Bjorn]]'s court date arrives. The judge, [[Sir Syagain]], is ruthless. [[Bjorn]] describes how he was imprisoned in a monastery, raided that monastery, broke him out and went on a rampage. He then breaks his stone of wanting and casts dominate person on [[Sir Syagain]].
+
