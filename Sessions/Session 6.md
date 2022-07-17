@@ -10,4 +10,4 @@ The party continues through the cave and encounter a giant lizard in a pool. [[P
 
 ---
 
-The remaining party continue through the cave
+The remaining party continue through the cave.
