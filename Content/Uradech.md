@@ -4,7 +4,7 @@ tags: PC
 player: Spencer
 race: Human
 class: Fathomless
-status: Alive
+status: Deceased
 created: 2022-06-19
 ---
 # Uradech

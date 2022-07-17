@@ -4,7 +4,7 @@ tags: PC
 player: Seth
 class: Cleric
 race: Human
-status: Alive
+status: Deceased
 created: 2022-07-10
 ---
 # Ezechiel
